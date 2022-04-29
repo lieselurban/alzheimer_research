@@ -6,3 +6,6 @@ Health Data
 
 Population Data
 #https://worldpopulationreview.com/states
+
+Country Codes
+https://gist.github.com/JeffPaine/3083347
