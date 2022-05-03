@@ -9,3 +9,7 @@ Population Data
 
 State codes
 https://worldpopulationreview.com/states/state-abbreviations
+
+Covid_19 Data:
+https://github.com/nytimes/covid-19-data
+
