@@ -15,4 +15,8 @@ https://github.com/nytimes/covid-19-data
 
 Alzheimer's Study:
 https://www.news-medical.net/news/20201001/Social-isolation-worsens-the-effects-of-Alzheimers-disease-study-shows.aspx
+
+
 https://jamanetwork.com/journals/jamapsychiatry/fullarticle/482179
+
+https://www.jamda.com/article/S1525-8610(20)30691-5/fulltext
