@@ -15,7 +15,7 @@ Table of Contents:
 
 
 
-To view the Folium Map, ....
+To view the Folium Map, copy and paste the Github link into http://nbviewer.org/
 
 Sources:
 Health Data:
