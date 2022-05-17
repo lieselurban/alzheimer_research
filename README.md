@@ -1,10 +1,9 @@
 # alzheimer_research
 
-This Notebook explores the potential correlation between COVID-19 lockdowns and rises in Alzheimers deaths. According to News-Medical Science (2020), research indicates that social isolation worsens the effects of Alzheimer's disease according to a study. A second study by JAMA Psychiatry (2007) indicates that loneliness was associated with an increased risk of late-life dementia (the broader categroy that Alzheimer's falls under). Throughout the COVID-19 pandemic and particuarly among retirement communities and nursing homes, an increase in cases also corresponded with an increase in lockdowns and the quarantines of residents and medical staff when exposed to COVID-19. By examining data, I wanted to see if there was an increased correlation of Alzheimer's death rates when cases of COVID-19 were high due to the increased rates of isolation that often coincided with higher numbers of cases.
+This Notebook explores the potential correlation between COVID-19 lockdowns and rises in Alzheimers deaths. According to News-Medical Science (2020), research indicates that social isolation worsens the effects of Alzheimer's disease according to a study. A second study by JAMA Psychiatry (2007) indicates that loneliness was associated with an increased risk of late-life dementia (the broader categroy that Alzheimer's disease falls under). Throughout the COVID-19 pandemic and particuarly among retirement communities and nursing homes, an increase in cases also corresponded with an increase in lockdowns and the quarantines of residents and medical staff when exposed to COVID-19. By examining data, I wanted to see if there was an increased correlation of Alzheimer's death rates when cases of COVID-19 were high due to the increased rates of isolation that often coincided with higher numbers of cases.
 
-This project was built using public and repuatble datasets from the Center for Disease Control, Github, and others. All sources are linked below.  
-
-Table of Contents:
+This project was built using public and reputable datasets from the Center for Disease Control, Github, and others. All sources are linked below.  
+### Table of Contents:
 1. CSV Files:
   - Weekly_Provisional_Counts_of_Death_by_State_and_Select_Causes_2020-2022.csv (Unprepared data collected from the CDC)
   - population_data.csv (Information on population by state)
@@ -14,10 +13,10 @@ Table of Contents:
 3. alzheimer_research_eda.ipynb (Visualization and Exploratory Data Analysis and the main content)
 
 
-
+### Folium Map Display:
 To view the Folium Map, copy and paste the Github link into http://nbviewer.org/
 
-Sources:
+### Sources:
 Health Data:
 
 https://data.cdc.gov/NCHS/Weekly-Provisional-Counts-of-Deaths-by-State-and-S/muzy-jte6
